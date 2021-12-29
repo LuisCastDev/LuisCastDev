@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LuisCastDev
 - 👀 I’m interested in Web Development and Blockchain.
-- 🌱 I’m currently learning ... Ionic with angular for mobile or pwa application
+- 🌱 I’m currently learning ... Ionic with angular for mobile or pwa application, and React with nodejs.
 - 💞️ I’m looking to collaborate on web applications.
 - 📫 How to reach me ... Just hit me up at LuisCastilloDev@gmail.com
 
